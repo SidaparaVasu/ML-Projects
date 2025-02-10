@@ -85,18 +85,18 @@ This project demonstrates the prediction of house prices in the Boston area usin
 ## How to Use
 
 1. Clone the repository
-```
-git clone [<repository_url>](https://github.com/SidaparaVasu/Cloudcredits-Internship/tree/main/Boaston_House_Price_Prediction)
+```bash
+gh repo clone SidaparaVasu/Cloudcredits-Internship/Boaston_House_Price_Prediction
 cd Boaston_House_Price_Prediction
 ```
 
 2. Install dependencies:
-```
+```bash
 pip install -r requirements.txt
 ```
 
 3. Run the notebook to explore the project or make predictions:
-```
+```bash
 jupyter notebook bostan_housing_price_prediction.ipynb
 ```
 

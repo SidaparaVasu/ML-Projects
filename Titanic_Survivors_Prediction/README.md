@@ -119,13 +119,13 @@ The goal is to build a binary classification model to predict survival (0 or 1).
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/titanic_survivors_prediction.git
+   gh repo clone SidaparaVasu/Cloudcredits-Internship/Titanic_Survivors_Prediction
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd titanic_survivors_prediction
+   cd Titanic_Survivors_Prediction
    ```
 
 3. Install required libraries:
