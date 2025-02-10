@@ -128,6 +128,5 @@ print(predicted_price)
 • Enhance feature engineering for better insights.
 
 
-Author
-Vasu Sidapara
-For queries, reach out at [vasupatel303@gmail.com].
+## Author
+Project developed by **Vasu Sidapara**.
