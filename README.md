@@ -23,6 +23,8 @@ Navigate to the project directory:
 cd <project_name>
 ```
 
+To **Run** these projects follow given README.md file (having step by step instructions):
+
 ## Author
 
 Projects developed by **Vasu Sidapara**.
