@@ -6,8 +6,8 @@ This repository contains projects given by **Cloudcredits** developed by **Vasu 
 
 Repository contains listed projects:
 
-- [Boaston_House_Price_Prediction](./tree/main/Boaston_House_Price_Prediction)
-- [Titanic_Survivors_Prediction](./tree/main/Titanic_Survivors_Prediction)
+- [Boaston_House_Price_Prediction](./Boaston_House_Price_Prediction)
+- [Titanic_Survivors_Prediction](./Titanic_Survivors_Prediction)
 
 ---
 
