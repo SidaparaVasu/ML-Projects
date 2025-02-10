@@ -86,8 +86,8 @@ This project demonstrates the prediction of house prices in the Boston area usin
 
 1. Clone the repository
 ```
-git clone [<repository_url>](https://github.com/SidaparaVasu/Cloudcredits-Internship/tree/main/1_Boaston_House_Price_Prediction)
-cd 1_Boaston_House_Price_Prediction
+git clone [<repository_url>](https://github.com/SidaparaVasu/Cloudcredits-Internship/tree/main/Boaston_House_Price_Prediction)
+cd Boaston_House_Price_Prediction
 ```
 
 2. Install dependencies:
