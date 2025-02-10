@@ -1,20 +1,20 @@
-# Cloudcredits Internship Projects
+# Machine Learning Projects
 
-This repository contains projects given by **Cloudcredits** developed by **Vasu Sidapara**.
+This repository contains various machine learning projects. As I learn and develop new preojects, you can find here. 
 
 ---
 
 Repository contains listed projects:
 
-- [Boaston_House_Price_Prediction](./Boaston_House_Price_Prediction)
-- [Titanic_Survivors_Prediction](./Titanic_Survivors_Prediction)
+- [1. Boaston_House_Price_Prediction](./Boaston_House_Price_Prediction)
+- [2. Titanic_Survivors_Prediction](./Titanic_Survivors_Prediction)
 
 ---
 
 ## Clone this repository:
 
 ```bash
-gh repo clone SidaparaVasu/Cloudcredits-Internship
+gh repo clone SidaparaVasu/ML-Projects
 ```
 
 Navigate to the project directory:
@@ -27,4 +27,4 @@ To **Run** these projects follow given README.md file (having step by step instr
 
 ## Author
 
-Projects developed by **Vasu Sidapara**.
+Projects developed with ❤️ by **Vasu Sidapara**.
